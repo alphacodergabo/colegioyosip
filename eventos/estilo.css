@@ -1,0 +1,43 @@
+input ,select,textarea       { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: 
+               #000000; background-color: #FFFFFF; border: 1px solid #8DA9AD }
+.titulomenu {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	background-color:#0074B2;
+	font-size:11px;
+	text-align:center;
+	font-weight:bold;
+	}
+.titulomenu1 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	background-color:#660000;
+	font-size:11px;
+	text-align:center;
+	font-weight:bold;
+	}	
+.titulonoticia {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#363636;
+	font-size:10px;
+	font-weight:bold;
+	}
+	
+.pres {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#333333;
+	font-size:10px;
+	text-align:justify;
+	}
+.menuven {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#0074B2; 
+	font-size:9px;
+	text-decoration:none;
+	}
+.menuven:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size:9px;
+	text-decoration:underline;
+	}
